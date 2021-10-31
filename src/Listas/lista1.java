@@ -87,9 +87,10 @@ public class lista1 {
 //6 – Desenvolver um programa utilizando os
 //conceitos de variáveis para resolver a expressão matemática abaixo sendo que o resultado é 125.
 
-        double rest1= Math.pow(6*(3+2), 2)/(3*2);
-        double rest2= Math.pow((1-5)*(2-7)/2,2);
-        double conta=Math.pow(rest1-rest2,3) / Math.pow(10,3);
-        System.out.println(""+conta);
+//        double rest1= Math.pow(6*(3+2), 2)/(3*2);
+//        double rest2= Math.pow((1-5)*(2-7)/2,2);
+//        double conta=Math.pow(rest1-rest2,3) / Math.pow(10,3);
+//        System.out.println(""+conta);
+//        
     }
 }
